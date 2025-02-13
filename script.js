@@ -54,16 +54,16 @@
 })();
 */
 const messages = [
-    "Are you sure?",
-    "Really sure??",
-    "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
-    "Just kidding, say yes please! ❤️"
+    "Có chắc khonggg?",
+    "Chắc chắn khong cho chọn lại??",
+    "Cho chọn lại lần cuối cuối",
+    "Làm ơn đóoo...",
+    "Suy nghĩ kỹ lại đii!",
+    "Nếu em từ chối, là anh sẽ buồn lắm đóoo...",
+    "Anh sẽ rất buồn đó babi à :<...",
+    "Anh sẽ rất rất rất buồn đóoo...",
+    "Được thui, anh sẽ không hỏi nữa...",
+    "Đùa thui, đồng ý nhaaa! ❤️"
 ];
 
 let messageIndex = 0;
